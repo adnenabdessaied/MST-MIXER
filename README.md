@@ -3,6 +3,8 @@
     
 **[Adnen Abdessaied][16], &nbsp; [Lei Shi][17], &nbsp; [Andreas Bulling][18]**  <br> <br>
 **ECCV 2024, Milan, Italy <img src="misc/italy.png" width="3%" align="center">** <br>
+**[[Paper][19]]**
+
 ---------------------------
 <img src="misc/teaser.png" width="70%" align="middle"><br><br>
 
@@ -169,3 +171,4 @@ We thank the authors of [RLM][8] for providing their [code][9] that greatly infl
 [16]: https://adnenabdessaied.de/
 [17]: https://perceptualui.org/people/shi/
 [18]: https://perceptualui.org/people/bulling/
+[19]: https://arxiv.org/abs/2407.02218
