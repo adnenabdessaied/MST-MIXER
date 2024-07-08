@@ -14,7 +14,7 @@
 If you find our code useful or use it in your own projects, please cite our paper:
 
 ```bibtex
-@InProceedings{Abdessaied_2024_WACV,
+@InProceedings{Abdessaied_2024_eccv,
     author    = {Abdessaied, Adnen and Shi, Lei and Bulling, Andreas},
     title     = {{Multi-Modal Video Dialog State Tracking in the Wild}},
     booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
