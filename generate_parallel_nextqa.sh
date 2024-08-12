@@ -2,8 +2,6 @@ export MODEL=$1
 export TAG=$2
 export MODE=$3
 export EVAL_DIR=$4
-export DSTC=$5
-
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
