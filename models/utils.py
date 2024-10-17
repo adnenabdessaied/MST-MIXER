@@ -46,7 +46,7 @@ def seperate_nextqa_input_modalities(
     Returns:
         _type_: _description_
     """
-    features_copy = features.clone() # .detach()
+    features_copy = features.clone()
     i3d_rgb_hidden = features_copy[:, i3d_rgb_interval[0]+1:i3d_rgb_interval[1], :]
     i3d_flow_hidden = features_copy[:, i3d_flow_interval[0]+1:i3d_flow_interval[1], :]
     
@@ -90,7 +90,7 @@ def seperate_input_modalities(
     Returns:
         _type_: _description_
     """
-    features_copy = features.clone() # .detach()
+    features_copy = features.clone()
     i3d_rgb_hidden = features_copy[:, i3d_rgb_interval[0]+1:i3d_rgb_interval[1], :]
     i3d_flow_hidden = features_copy[:, i3d_flow_interval[0]+1:i3d_flow_interval[1], :]
     sam_hidden = features_copy[:, sam_interval[0]+1:sam_interval[1], :]
